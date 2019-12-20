@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package tp_note_1;
+
 
 public class Task1{
     public static void pr(String s){
